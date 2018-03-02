@@ -7,6 +7,8 @@ end
 
 gem 'rails', '~> 5.1.5'
 
+gem 'stripe'
+
 gem 'devise'
 
 gem 'twitter-bootstrap-rails'
