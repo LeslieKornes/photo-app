@@ -3,6 +3,10 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
+export SENDGRID_USER="Lesliekornes@gmail.com"
+export SENDGRID_PASSWORD="Dodjie0706!"
+export STRIPE_TEST_SECRET_KEY="pk_test_A9ob7fvJTqmH3dTDKL5nQCya"
+export STRIPE_TEST_SECRET_KEY="sk_test_oNZ7hfz7dv2HCd6z0iWS8zzc"
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
